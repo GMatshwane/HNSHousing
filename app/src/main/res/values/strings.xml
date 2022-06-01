@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HNSHousing</string>
+    <string name="electrical">Electrical</string>
+    <string name="plumbing">Plumbing</string>
+    <string name="funiture_text">Furniture</string>
+</resources>
